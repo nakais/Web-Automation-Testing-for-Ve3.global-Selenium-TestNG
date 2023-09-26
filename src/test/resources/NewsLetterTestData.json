@@ -1,0 +1,7 @@
+[
+  {"name": "John", "email": "test1@example.com"},
+  {"name": "Alice", "email": "test2@example.com"},
+  {"name": " ", "email": "invalid-email", "expectedErrorMessage": "One or more fields have an error. Please check and try again."},
+  {"name": "Bob", "email": "test3@example.com"},
+  {"name": "Eve", "email": "test4@example.com"}
+]

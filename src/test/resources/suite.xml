@@ -1,0 +1,7 @@
+<suite thread-count="1" verbose="1" name="Ve3 Global various feature automation">
+    <test name="Ve3 Global test runner">
+        <classes>
+            <class name="testrunner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
